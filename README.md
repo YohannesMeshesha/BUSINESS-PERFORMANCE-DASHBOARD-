@@ -11,7 +11,6 @@ The Business Performance dashboard that I have developed is designed to provide 
 
 The Top 3 Products in Each Segment by Unit Sold table is a great way to analyze the performance of your products, and the Total Profit by Country visualization provides valuable insights into the profitability of different countries. The 2013 - 2014 Sales by Country clustered bar chart is another valuable visualization that provides insight into the sales performance of different countries. The dashboard also includes a slicer that allows users to filter the data by country, discount band, product, and year.
 
-In conclusion, I am confident that the Business Performance dashboard that I have developed using Power BI will provide valuable insights into your business's performance. The dashboard is a powerful tool that can be used to monitor your sales, profitability, and product performance and make informed decisions based on the data you gather.
+In conclusion, This Business Performance dashboard that I have developed using Power BI will provide valuable insights into business's performance. The dashboard is a powerful tool that can be used to monitor your sales, profitability, and product performance and make informed decisions based on the data you gather.
 
-Thank you for the opportunity to work with you.
 
